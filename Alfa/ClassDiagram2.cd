@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="input">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAgAAACCAAAAACAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControlsConf">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\ControlsConf.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="controls" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Player">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAIAoAARAAEAAAAAACCAAAAAACgAAAAgABAQEA=</HashCode>
+      <FileName>Assets\Scrips\Player.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="inputManager" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BehaviourConf">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAQACAAAAAAAAAAAAAAACAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Scrips\BehaviourConf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerBehaviour">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="BehaviourConf" ManuallyRouted="true">
+      <Path>
+        <Point X="5.75" Y="2.032" />
+        <Point X="3.75" Y="2.032" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AACACABAECAAQDCEAQAAAAAEAAAAAACAAASAAAgQAAA=</HashCode>
+      <FileName>Assets\Resources\Behaviours\PlayerBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Deserializer" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAgBAAAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scrips\Deserializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="controlConf">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\ControlsConf.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

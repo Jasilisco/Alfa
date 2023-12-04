@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<PrefabConf xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<prefabs>
+		<Prefab>
+			<name></name>
+			<key></key>
+			<type></type>
+			<prefab></prefab>
+			<behaviour></behaviour>
+			<stats>
+				<strength></strength>
+				<defense></defense>
+				<speed></speed>
+				<hp></hp>
+				<coolDown></coolDown>
+			</stats>
+		</Prefab>
+		<Prefab>
+			<name></name>
+			<key></key>
+			<type></type>
+			<prefab></prefab>
+			<behaviour></behaviour>
+			<stats>
+				<strength></strength>
+				<defense></defense>
+				<speed></speed>
+				<hp></hp>
+				<coolDown></coolDown>
+			</stats>
+		</Prefab>
+	</prefabs>
+</PrefabConf>

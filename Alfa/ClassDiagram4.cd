@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mask">
+    <Position X="6.25" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAACAQAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\Mask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pool">
+    <Position X="12.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAAIAAEAAIAAAAAAAAAgAxAAkAAAIApAAAgAAAA=</HashCode>
+      <FileName>Assets\Scrips\Pool.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="biome" />
+      <Field Name="tileset" />
+      <Field Name="pool" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="objects" />
+      <Field Name="tiles" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="RoomConf">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAAAAAAgIAAAAAAAQAEAQEAAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\RoomConf.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="levelEnd" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="entities" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="RoomBuilder">
+    <Position X="10.25" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABpCAAAQASIAAAUAAQAAAABAAAgAAAQEAAgAA=</HashCode>
+      <FileName>Assets\Scrips\RoomBuilder.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="mask" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="masks" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SpriteConf">
+    <Position X="16.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\SpriteConf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Item">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAIAAAAAAIAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\Pool.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LevelEnd">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\RoomConf.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="EntitySpawner" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\RoomConf.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PoolConf">
+    <Position X="13.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAgAAIAEAAAAQAEAAAAIAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\GameConf.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

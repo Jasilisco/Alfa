@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Player">
+    <Position X="8.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAIAoAARAAEAAAAAACCAAAAAACgAAAAgABAQEA=</HashCode>
+      <FileName>Assets\Scrips\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bandit" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQIAACAAAAAAAAAAAAAACAAgAgAAAACAAAAAABA=</HashCode>
+      <FileName>Assets\Bandits - Pixel Art\Demo\Bandit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sensor_Bandit" Collapsed="true">
+    <Position X="12.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAEAAAAAAAAAAAAAAEAACAAAAAAgBAAACAA=</HashCode>
+      <FileName>Assets\Bandits - Pixel Art\Demo\Sensor_Bandit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hola" Collapsed="true">
+    <Position X="21" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\hola.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeleeBehaviour" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAQACAAAAAAAAAAAAAAACAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Resources\Behaviours\MeleeBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerBehaviour" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACACABAECAAQDCEAQAAAAAEAAAAAACAAASAAAgQAAA=</HashCode>
+      <FileName>Assets\Resources\Behaviours\PlayerBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioConf" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\AudioConf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioController" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAgAAAAAAABAAAAABEAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Scrips\AudioController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BehaviourConf" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAQACAAAAAAAAAAAAAAACAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Scrips\BehaviourConf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraSetUp" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAABEAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\CameraSetUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellGrid" Collapsed="true">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAIAAAAQABAAAAABAQAAAAAAAAAAAQIAAAAAAAQA=</HashCode>
+      <FileName>Assets\Scrips\CellGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControlsConf" Collapsed="true">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\ControlsConf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Deserializer" Collapsed="true">
+    <Position X="5.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAgBAAAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scrips\Deserializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dungeon" Collapsed="true">
+    <Position X="21" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCEAAAAAAgYQAAAACABAAABABABAAAAAACAAACAgGCA=</HashCode>
+      <FileName>Assets\Scrips\Dungeon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entity" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAARAQAAAEQAAAAAAEAAIAAAAlAACIAFAAgAgAgAA=</HashCode>
+      <FileName>Assets\Scrips\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntityController" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\EntityController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACABAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAABEA=</HashCode>
+      <FileName>Assets\Scrips\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConf" Collapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAFAAAAAAAAAAAAAAAASAEEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\GameConf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFlow" Collapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAEEAAAgAAAAAAAAAAAAAAAFAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\GameFlow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GridAux" Collapsed="true">
+    <Position X="19.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAEAAAAIIAQQAQACiQAAAAAAEAAIAIAAAAAAAgAA=</HashCode>
+      <FileName>Assets\Scrips\GridAux.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="input" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAgAAACCAAAAACAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIAAAAAAAACQAAAAoAAAAAAAAAAAAABAAgEAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelState" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIEAAABAABABAACAAQAAACBEEAAABAAgGAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\LevelState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Mask" Collapsed="true">
+    <Position X="17.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAQAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\Mask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pool" Collapsed="true">
+    <Position X="21" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAAIAAEAAIAAAAAAAAAAAxAAkAAAIApAAAgAAAA=</HashCode>
+      <FileName>Assets\Scrips\Pool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrefabConf" Collapsed="true">
+    <Position X="0.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\PrefabConf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrefabSpawner" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAABAAAAAACAAABABAAAAAAAABAAAAAAIA=</HashCode>
+      <FileName>Assets\Scrips\PrefabSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Queue" Collapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEAAAAAAAAAAAAAAABAAAAEAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Scrips\Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoomBuilder" Collapsed="true">
+    <Position X="17.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABpCAAAQASIAAAUAAQAAAABAAAgAAAQEAAgAA=</HashCode>
+      <FileName>Assets\Scrips\RoomBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoomConf" Collapsed="true">
+    <Position X="9.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAAAAAAgIAAAAAAAQAEAQEAAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\RoomConf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoomSpawner" Collapsed="true">
+    <Position X="19.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAIDAIgAEgASAAAAACIAAAAAAAAAAAgAEAADgAgKA=</HashCode>
+      <FileName>Assets\Scrips\RoomSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoomSpawnerBuilder" Collapsed="true">
+    <Position X="21" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\RoomSpawnerBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TilePrefab" Collapsed="true">
+    <Position X="14" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAgEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\SpriteConf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectPrefab" Collapsed="true">
+    <Position X="19.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAIAgEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\SpriteConf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpriteConf" Collapsed="true">
+    <Position X="5.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\SpriteConf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatBlock" Collapsed="true">
+    <Position X="17.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAECAAAAAAAAAAAAQCFSABAAAAAAAI=</HashCode>
+      <FileName>Assets\Scrips\StatBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateBuilder" Collapsed="true">
+    <Position X="19.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\StateBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateMachine" Collapsed="true">
+    <Position X="21" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgAAAACAAAAAAABIAEAAAAAAAAYAAAGAAAEIAAAAEA=</HashCode>
+      <FileName>Assets\Scrips\StateMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Serializer" Collapsed="true">
+    <Position X="15.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Serializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="room" Collapsed="true">
+    <Position X="15.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAIAAAAAAAQBAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Serializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tests" Collapsed="true">
+    <Position X="12.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Serializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Serializador" Collapsed="true">
+    <Position X="14" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Serializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="controlConf" Collapsed="true">
+    <Position X="12.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\ControlsConf.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="End" Collapsed="true">
+    <Position X="15.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Assets\Scrips\GameConf.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PoolConf" Collapsed="true">
+    <Position X="15.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAgAAIAEAAAAQAEAAAAIAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\GameConf.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LevelConf" Collapsed="true">
+    <Position X="21" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABQAAAAAAAAAAAAAAAAEAAAAAggAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\GameConf.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PlayerConf" Collapsed="true">
+    <Position X="14" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAQAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\GameConf.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Item" Collapsed="true">
+    <Position X="19.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAIAAAAAAIAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\Pool.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Stats" Collapsed="true">
+    <Position X="19.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAASABAAAAAAAI=</HashCode>
+      <FileName>Assets\Scrips\PrefabConf.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Prefab" Collapsed="true">
+    <Position X="17.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAQAAAAAAAAAAAEAAIAAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\PrefabConf.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LevelEnd" Collapsed="true">
+    <Position X="12.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\RoomConf.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="EntitySpawner" Collapsed="true">
+    <Position X="17.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\RoomConf.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Coordinate" Collapsed="true">
+    <Position X="14" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAEAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Serializer.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="State" Collapsed="true">
+    <Position X="12.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAABAAAAAQAAAABAAAAAAAAAGAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\State.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="AudioResourceType" Collapsed="true">
+    <Position X="12.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\AudioController.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ControlsConf xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<controls>
+		<controlConf>
+			<control>Attack</control>
+			<key>Q</key>
+		</controlConf>
+		<controlConf>
+			<control>Pause</control>
+			<key>Escape</key>
+		</controlConf>
+		<controlConf>
+			<control>Up</control>
+			<key>UpArrow</key>
+		</controlConf>
+		<controlConf>
+			<control>Down</control>
+			<key>DownArrow</key>
+		</controlConf>
+		<controlConf>
+			<control>Left</control>
+			<key>LeftArrow</key>
+		</controlConf>
+		<controlConf>
+			<control>Right</control>
+			<key>RightArrow</key>
+		</controlConf>
+	</controls>
+</ControlsConf>

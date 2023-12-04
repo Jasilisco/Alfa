@@ -1,0 +1,557 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1699848589689169, "dur":1877, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589691054, "dur":126, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1699848589691191, "dur":31, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1699848589691222, "dur":568, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1699848589691827, "dur":755, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589692582, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589831827, "dur":360, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832187, "dur":39, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832226, "dur":53, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832279, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832291, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832296, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832304, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832308, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832316, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832318, "dur":78, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832396, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832400, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832412, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832415, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832425, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832427, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832436, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832438, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832447, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832450, "dur":15, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832465, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832469, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832485, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832489, "dur":15, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832504, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832508, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832521, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832525, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832541, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832545, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832558, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832561, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832575, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832595, "dur":3, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589832629, "dur":6526, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1699848589692020, "dur":569, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589692592, "dur":6989, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589699600, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1699848589699605, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589699794, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1699848589699801, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589701171, "dur":2327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1699848589703502, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1699848589703639, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589704207, "dur":1336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1699848589705627, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589705760, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589706118, "dur":2710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589709066, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1699848589709293, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589709299, "dur":5415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1699848589714792, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589714871, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589715329, "dur":2223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589717626, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589717726, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589717733, "dur":4544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589722378, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589722486, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589722496, "dur":2377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589724951, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589725035, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589725042, "dur":2504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589727634, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589727738, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589727747, "dur":5298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589733136, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589733220, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589733230, "dur":2468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589735788, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589735878, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589735885, "dur":3251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589739231, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589739364, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589739372, "dur":2853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589742280, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589742336, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589742341, "dur":3322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589745798, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589745969, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589745975, "dur":4162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589750214, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589750289, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589750295, "dur":3792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589754161, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589754252, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589754257, "dur":4393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589758729, "dur":722, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589759483, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589759491, "dur":5789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589765352, "dur":308, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589765667, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589765676, "dur":5459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589771222, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589771314, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589771322, "dur":6328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589777729, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589777814, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589777823, "dur":5030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589782935, "dur":38482, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589821425, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699848589822810, "dur":2116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699848589825011, "dur":6818, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589692096, "dur":507, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589692603, "dur":6982, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589699599, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1699848589699833, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589706486, "dur":2011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1699848589708595, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589708820, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589708843, "dur":25131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589734048, "dur":366, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589734417, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589734422, "dur":3044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589737545, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589737628, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589737636, "dur":2952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589740643, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589740701, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589740706, "dur":2820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589743674, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589743767, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589743773, "dur":3843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589747680, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589747746, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589747752, "dur":4208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589752069, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589752217, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589752226, "dur":3925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589756260, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589756344, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589756351, "dur":4470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589760903, "dur":865, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589761774, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589761784, "dur":5430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589767325, "dur":377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589767708, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589767719, "dur":4331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589772137, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589772308, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589772334, "dur":7399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589779819, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589779911, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589779918, "dur":12489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699848589792518, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1699848589792614, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699848589792625, "dur":11722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1699848589804456, "dur":27354, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589692055, "dur":539, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589692594, "dur":7011, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589699605, "dur":302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1699848589699910, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589735265, "dur":1580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1699848589736943, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589737064, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589737073, "dur":3133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589740267, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589740322, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589740326, "dur":3326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589743752, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589743848, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589743854, "dur":3702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589747639, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589747744, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589747752, "dur":4299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589752140, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589752227, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589752234, "dur":4923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589757216, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589757279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589757284, "dur":3715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589761081, "dur":194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589761279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589761286, "dur":4735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589766108, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589766311, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589766319, "dur":4947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589771370, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589771451, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589771457, "dur":7089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589778645, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589778786, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589778793, "dur":8463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699848589787334, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1699848589787448, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589787459, "dur":9667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1699848589797218, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1699848589797472, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699848589797483, "dur":7097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1699848589804716, "dur":27097, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699848589692084, "dur":515, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699848589692599, "dur":6989, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699848589699599, "dur":371, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1699848589700025, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699848589770016, "dur":2175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1699848589772311, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699848589772423, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699848589772428, "dur":5914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699848589778436, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699848589778528, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699848589778538, "dur":6862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699848589785471, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":4, "ts":1699848589785548, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699848589785554, "dur":5525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":4, "ts":1699848589791168, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1699848589791268, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699848589791278, "dur":6753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1699848589798105, "dur":33709, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699848589692125, "dur":482, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699848589692607, "dur":6976, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699848589699600, "dur":366, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1699848589700020, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699848589761191, "dur":1776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1699848589763054, "dur":615, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":5, "ts":1699848589763676, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699848589763688, "dur":5732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":5, "ts":1699848589769486, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1699848589769554, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699848589769562, "dur":5235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1699848589774904, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1699848589774995, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699848589775007, "dur":5223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1699848589780308, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1699848589780385, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699848589780392, "dur":7587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1699848589788074, "dur":12628, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1699848589800708, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699848589800724, "dur":3844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1699848589804681, "dur":27145, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1699848589692158, "dur":453, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1699848589692611, "dur":7002, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1699848589699613, "dur":368, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1699848589700044, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1699848589829326, "dur":1813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1699848589831249, "dur":570, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589692194, "dur":421, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589692615, "dur":6972, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589699600, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1699848589699814, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589702673, "dur":1233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1699848589703979, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1699848589704109, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589704115, "dur":1286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1699848589705463, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1699848589705586, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589705593, "dur":2092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1699848589707822, "dur":356, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589708184, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589708362, "dur":7923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589716373, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589716476, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589716593, "dur":1689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589718354, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589718432, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589718438, "dur":4399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589722949, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589723072, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589723085, "dur":2264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589725408, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589725471, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589725475, "dur":2697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589728243, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589728318, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589728325, "dur":5301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589733697, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589733786, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589733792, "dur":3910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589737772, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589737848, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589737854, "dur":3100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589741030, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589741095, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589741100, "dur":3219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589744384, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589744478, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589744484, "dur":3756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589748312, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589748378, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589748386, "dur":4432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589752914, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589753034, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589753041, "dur":3726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589756840, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589756928, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589756935, "dur":4552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589761560, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589761648, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589761653, "dur":4980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589766721, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589766945, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589766950, "dur":4655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589771666, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589771752, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589771760, "dur":7383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589779244, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589779326, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589779333, "dur":6929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699848589786357, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1699848589786450, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699848589786460, "dur":37193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1699848589823738, "dur":8096, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589692227, "dur":392, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589692619, "dur":6972, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589699599, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1699848589699840, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589716570, "dur":3026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1699848589719675, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589719744, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589719749, "dur":3224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589723064, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589723181, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589723189, "dur":1960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589725220, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589725290, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589725296, "dur":2624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589727995, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589728079, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589728085, "dur":5234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589733395, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589733482, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589733487, "dur":2563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589736138, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589736275, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589736288, "dur":3443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589739828, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589739904, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589739910, "dur":3222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589743219, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589743303, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589743313, "dur":3834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589747281, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589747376, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589747383, "dur":4095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589751563, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589751661, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589751670, "dur":4015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589755778, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589755866, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589755872, "dur":4884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589760845, "dur":552, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589761400, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589761406, "dur":4560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589766048, "dur":344, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589766395, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589766430, "dur":5062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589771567, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589771645, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589771650, "dur":6118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589777847, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589777943, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589777949, "dur":6962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699848589784991, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1699848589785076, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589785271, "dur":2372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1699848589787735, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1699848589787953, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589787959, "dur":3592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1699848589791635, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1699848589791714, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699848589791723, "dur":6262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1699848589798066, "dur":33745, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589692259, "dur":363, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589692622, "dur":6984, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589699606, "dur":228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1699848589699838, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589707490, "dur":1781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1699848589709377, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG.exe" }}
+,{ "pid":12345, "tid":9, "ts":1699848589709478, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589709486, "dur":5199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG.exe" }}
+,{ "pid":12345, "tid":9, "ts":1699848589714754, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":9, "ts":1699848589714939, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589716472, "dur":5470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":9, "ts":1699848589722048, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589722153, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589722163, "dur":2269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589724577, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589724706, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589724716, "dur":2619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589727432, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589727558, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589727569, "dur":5536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589733185, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589733260, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589733267, "dur":2168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589735506, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589735589, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589735597, "dur":2720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589738378, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589738450, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589738456, "dur":3448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589741975, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589742058, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589742064, "dur":3060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589745193, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589745290, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589745296, "dur":4448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589749825, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589749938, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589749946, "dur":3874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589753948, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589754025, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589754034, "dur":3899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589758027, "dur":245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589758276, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589758283, "dur":4736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589763092, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589763191, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589763202, "dur":4316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589767608, "dur":252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589767863, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589767868, "dur":6983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589775048, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589775198, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589775205, "dur":5562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589780865, "dur":594, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589781466, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589781478, "dur":8283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699848589789854, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/resources.assets" }}
+,{ "pid":12345, "tid":9, "ts":1699848589789936, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699848589789944, "dur":7216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/resources.assets" }}
+,{ "pid":12345, "tid":9, "ts":1699848589797246, "dur":34566, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699848589692288, "dur":338, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699848589692626, "dur":6958, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699848589699600, "dur":309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1699848589699914, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699848589744010, "dur":1657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1699848589745784, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699848589745850, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699848589745859, "dur":4023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699848589749975, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699848589750067, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699848589750075, "dur":3936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699848589754096, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699848589754185, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699848589754191, "dur":3944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699848589758224, "dur":551, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699848589758779, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699848589758786, "dur":4686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699848589763574, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699848589763664, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699848589763675, "dur":5011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699848589768764, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699848589768868, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699848589768880, "dur":6856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699848589775818, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699848589775911, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699848589775918, "dur":9000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699848589785019, "dur":230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":10, "ts":1699848589785252, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699848589785259, "dur":3938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":10, "ts":1699848589789289, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1699848589789377, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699848589789389, "dur":37210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1699848589826694, "dur":5146, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1699848589692324, "dur":306, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1699848589692630, "dur":6963, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1699848589699604, "dur":379, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1699848589700047, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1699848589830295, "dur":1403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1699848589831774, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":11, "ts":1699848589831777, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699848589692350, "dur":284, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699848589692634, "dur":6960, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699848589699599, "dur":378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1699848589700030, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699848589827094, "dur":2119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1699848589829309, "dur":2522, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699848589692376, "dur":262, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699848589692638, "dur":6964, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699848589699603, "dur":333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1699848589700015, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699848589752764, "dur":2231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1699848589755085, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1699848589755156, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699848589755163, "dur":4413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1699848589759660, "dur":312, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1699848589759975, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699848589759981, "dur":4738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1699848589764803, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":13, "ts":1699848589764880, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699848589764887, "dur":4529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":13, "ts":1699848589769498, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":13, "ts":1699848589769573, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699848589769613, "dur":5465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":13, "ts":1699848589775168, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":13, "ts":1699848589775256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699848589775264, "dur":7296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":13, "ts":1699848589782671, "dur":293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":13, "ts":1699848589782968, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699848589783022, "dur":7034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":13, "ts":1699848589790141, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/level1" }}
+,{ "pid":12345, "tid":13, "ts":1699848589790335, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699848589790343, "dur":9980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/level1" }}
+,{ "pid":12345, "tid":13, "ts":1699848589800485, "dur":31324, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699848589692404, "dur":237, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699848589692641, "dur":6954, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699848589699600, "dur":379, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1699848589700035, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699848589827761, "dur":2107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1699848589829962, "dur":1879, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589692430, "dur":215, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589692645, "dur":6956, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589699602, "dur":299, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1699848589699905, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589728146, "dur":1594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1699848589729821, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589729887, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589729895, "dur":4575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589734558, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589734639, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589734644, "dur":3458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589738200, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589738274, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589738281, "dur":3399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589741763, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589741846, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589741853, "dur":4314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589746229, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589746290, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589746297, "dur":4062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589750438, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589750500, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589750505, "dur":3880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589754469, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589754587, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589754596, "dur":4113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589758789, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589758873, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589758878, "dur":5452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589764404, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589764486, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589764494, "dur":4226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589768793, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589768875, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589768881, "dur":8201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589777169, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589777265, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589777275, "dur":10970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699848589788332, "dur":372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/resources.resource" }}
+,{ "pid":12345, "tid":15, "ts":1699848589788711, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699848589788724, "dur":22712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/TFG_Data/resources.resource" }}
+,{ "pid":12345, "tid":15, "ts":1699848589811526, "dur":20306, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699848589692461, "dur":187, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699848589692648, "dur":6949, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699848589699598, "dur":382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1699848589700039, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699848589828520, "dur":1792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jalisco/OneDrive/Desktop/Final/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1699848589830390, "dur":1435, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699848589842671, "dur":3021, "ph":"X", "name": "ProfilerWriteOutput" }
+,

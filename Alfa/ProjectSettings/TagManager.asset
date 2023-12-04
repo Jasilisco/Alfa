@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - grid
+  - cell
+  - SpawnPoint
+  - Room
+  - Start
+  - End
+  - T
+  - B
+  - L
+  - R
+  - Rooms
+  - Closed
+  - SpawnPointWrap
+  - Manager
+  - Tilemap
+  - Collider
+  - PrefabSpawner
+  - Director
+  - VirtualCamera
+  - AttackRange
+  - InnerT
+  - InnerB
+  - InnerL
+  - InnerR
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Foreground
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
